@@ -1,2 +1,2 @@
 # Git-practice-
-Repositiry for practice 
+Repository for practice 
